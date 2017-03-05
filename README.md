@@ -270,6 +270,7 @@ A collection of awesome things regarding React ecosystem.
 * [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
 
 ##### Components
+
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [JS.coach - A catalog of React components](https://js.coach/)
 * [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
@@ -277,6 +278,7 @@ A collection of awesome things regarding React ecosystem.
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
 * [React Topcoat UI components](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
+* [Ant Design of React - A set of high-quality React components](http://github.com/ant-design/ant-design/)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
 * [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 * [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
